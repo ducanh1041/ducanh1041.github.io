@@ -1,0 +1,54 @@
+/* CSS Document */
+.fseheaderbar{
+	text-decoration: none;
+	color: white;
+	margin-left: 15px;
+	font-family: ProximaNova;
+	opacity: 80%;
+}
+.fseheaderbar:hover{
+	opacity: 100%;
+}
+.fheaderbar{
+	text-decoration: none;
+	color: rgba(57,38,0,1.00);
+	margin-left: 15px;
+	font-size: 20px;
+	float: left;
+	line-height: 46px;
+}
+@font-face{
+	src: url("font/proxima_ssv/ProximaNova-Regular.otf");
+	font-family: ProximaNova;
+}
+h1{
+	font-family: ProximaNova;
+	font-size: 48px;
+}
+#markdown p{
+	font-family: ProximaNova;
+	font-size: 15px;
+}
+ul li{
+	font-family: ProximaNova;
+	font-size: 15px;
+	margin-top: 5px;
+}
+.thumb p{
+	font-family: ProximaNova;
+	font-size: 40px;
+	text-align: center;
+}
+.ffooter{
+	font-family: ProximaNova;
+	font-size: 17px;
+	text-decoration: none;
+	color: white;
+	line-height: 54px;
+	margin-left: 25px;
+	float: left;
+	opacity: 80%;
+}
+.ffooter:hover{
+	opacity: 100%
+}
