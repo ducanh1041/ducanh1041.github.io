@@ -99,7 +99,6 @@ body{
 }
 .thumb{
 	width: 250px;
-	height: 470px;
 	margin-left: 60px;
 	transition: 0.15s;
 	float: left;
@@ -113,7 +112,6 @@ body{
 .thumbboder{
 	margin: auto;
 	width: 1300px;
-	background: rgba(126,78,79,1.00);
 }
 #gallery{
 	width: 100%;
@@ -134,7 +132,6 @@ body{
 	height: 225px;
 	float: left;
 	transition: 0.2s;
-	background: #D3D3D3;
 	cursor: pointer;
 	position: relative;
 }
@@ -160,7 +157,7 @@ body{
 	height: 54px;
 	margin-left: 60px;
 	margin-right: 60px;
-	margin-top: 10px;
+	margin-top: 20px;
 }
 #videobg{
 	width: 100%;
